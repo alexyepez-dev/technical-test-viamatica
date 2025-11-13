@@ -19,11 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMT.TechnicalTest.Applicati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMT.TechnicalTest.Security", "src\VMT.TechnicalTest.Security\VMT.TechnicalTest.Security.csproj", "{88136C00-FB48-4364-8D62-1C9147E5FD77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMT.TechnicalTest.Persistence", "VMT.TechnicalTest.Persistence\VMT.TechnicalTest.Persistence.csproj", "{AA4A588B-4BF1-420E-B2E8-6DDED950509E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMT.TechnicalTest.Persistence", "src\VMT.TechnicalTest.Persistence\VMT.TechnicalTest.Persistence.csproj", "{AA4A588B-4BF1-420E-B2E8-6DDED950509E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{F3B3C85D-FC87-4A30-BD6F-5374E1502F22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMT.TechnicalTest.xUnit", "VMT.TechnicalTest.xUnit\VMT.TechnicalTest.xUnit.csproj", "{D7F32E70-E2AB-47DC-8E08-CFF30135749E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMT.TechnicalTest.xUnit", "src\VMT.TechnicalTest.xUnit\VMT.TechnicalTest.xUnit.csproj", "{D7F32E70-E2AB-47DC-8E08-CFF30135749E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMT.TechnicalTest.Common", "src\VMT.TechnicalTest.Common\VMT.TechnicalTest.Common.csproj", "{547A3FC7-770B-417A-BEB9-8A494C838486}"
 EndProject
