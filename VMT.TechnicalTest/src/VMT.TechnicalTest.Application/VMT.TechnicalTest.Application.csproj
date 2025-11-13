@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Mappers\" />
+    <Folder Include="Providers\Auth\Register\" />
+    <Folder Include="Providers\Auth\Login\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\VMT.TechnicalTest.Persistence\VMT.TechnicalTest.Persistence.csproj" />
+    <ProjectReference Include="..\VMT.TechnicalTest.Common\VMT.TechnicalTest.Common.csproj" />
+  </ItemGroup>
+
+</Project>
